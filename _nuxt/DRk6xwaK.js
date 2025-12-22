@@ -1,1 +1,0 @@
-import{_ as o,I as _,v as e,B as c,J as a,A as s,K as r}from"./CrbFMb8n.js";const p={};function u(x,f){const t=r,n=a;return e(),_(n,null,{default:c(()=>[s(t)]),_:1})}const l=o(p,[["render",u]]);export{l as default};

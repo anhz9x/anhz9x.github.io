@@ -1,6 +1,0 @@
-# START nuxt-robots (indexable)
-User-agent: *
-Disallow: 
-
-Sitemap: https://anhz9x.github.io/sitemap.xml
-# END nuxt-robots
