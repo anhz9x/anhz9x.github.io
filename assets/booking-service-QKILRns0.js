@@ -1,0 +1,1 @@
+import"./index-CBKo7eUj.js";import{a as o}from"./axios-9PTFF6AP.js";const e="bookings",n=t=>o.get(`${e}/${t}`),$=t=>o.get(`${e}/info/${t}`),c=t=>o.get(`${e}/note/${t}`),i=t=>o.get(`${e}`,{params:t}),a=t=>o.post(`${e}`,t),g=(t,s)=>o.put(`${e}/${t}`,s),r=t=>o.delete(`${e}/${t}`),d={get:n,info:$,note:c,gets:i,create:a,update:g,destroy:r};export{d as b};
