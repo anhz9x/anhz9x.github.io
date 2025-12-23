@@ -1,0 +1,1 @@
+import"./index-ug2vDTIo.js";import{a as s}from"./axios-9PTFF6AP.js";const e="users",c=t=>s.get(`${e}/${t}`),r=t=>s.get(`${e}`,{params:t}),a=t=>s.post(`${e}`,t),$=(t,o)=>s.put(`${e}/${t}`,o),n=t=>s.delete(`${e}/${t}`),u={get:c,gets:r,create:a,update:$,destroy:n};export{u};
